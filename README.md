@@ -2,4 +2,4 @@
 
 ## First Assignment
 
-Created "notebook-1.pynb" as first step, following the instructions provided on the course.
+Created "notebook-1.ipynb" as first step, following the instructions provided on the course.
